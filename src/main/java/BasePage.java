@@ -1,5 +1,5 @@
 import org.openqa.selenium.WebDriver;
 
-public class BasePge {
+public class BasePage {
     WebDriver driver;
 }
